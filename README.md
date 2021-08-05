@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hello There 👋
 
 ![Paradox2405](https://github-readme-stats.vercel.app/api?username=Paradox2405&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![Paradox2405](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405&layout=compact&langs_count=6&theme=algolia)
