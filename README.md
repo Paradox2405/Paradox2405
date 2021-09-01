@@ -10,6 +10,7 @@
 
 ![Paradox2405](https://github-readme-stats.vercel.app/api?username=Paradox2405&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![Paradox2405](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405&layout=compact&langs_count=6&theme=algolia)
+![Paradox2405's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paradox2405&layout=compact&theme=nord&hide_border=true&custom_title=Other%20Stats)
 
 <!--
 **Paradox2405/Paradox2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
