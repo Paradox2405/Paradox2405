@@ -14,7 +14,7 @@
 ![Paradox2405](https://github-readme-stats.vercel.app/api?username=Paradox2405&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![Paradox2405](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405&layout=compact&langs_count=6&theme=algolia)
 
-![Paradox2405's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paradox2405&layout=compact&theme=algolia&hide_border=true&custom_title=Other%20Stats&v=2)
+![Paradox2405's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paradox2405&layout=compact&theme=algolia&custom_title=Other%20Stats&v=2)
 
 
 <!--
