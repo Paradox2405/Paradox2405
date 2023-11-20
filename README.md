@@ -8,7 +8,7 @@
 
 <a href="https://stackoverflow.com/users/13601462/denver-shenal"><img src="https://stackoverflow.com/users/flair/13601462.png?theme=dark" width="208" height="58" alt="profile for Denver Shenal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Denver Shenal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-
+<a href="https://wakatime.com/@01f1e696-4706-4b0c-9e64-49b9a6227cc7"><img src="https://wakatime.com/badge/user/01f1e696-4706-4b0c-9e64-49b9a6227cc7.svg" alt="Total time coded since Sep 1 2021" /></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=Paradox2405.visitor-badge) 
 
 ![Paradox2405](https://github-readme-stats.vercel.app/api?username=Paradox2405&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
