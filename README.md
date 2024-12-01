@@ -16,7 +16,7 @@
 ![Paradox2405](https://github-readme-stats.vercel.app/api/wakatime?username=Paradox2405&layout=default&langs_count=8&theme=algolia&custom_title=Other%20Stats&v=2)
 
 
-<a href="https://app.daily.dev/paradox2405"><img src="https://api.daily.dev/devcards/v2/_xjBPLrGp.png?r=io2&type=wide" width="652" alt="Denver Shenal's Dev Card"/></a>
+<a href="https://app.daily.dev/paradox2405"><img src="https://api.daily.dev/devcards/v2/_xjBPLrGp.png?type=wide&r=pft" width="652" alt="Denver Shenal's Dev Card"/></a>
 <!--
 **Paradox2405/Paradox2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
