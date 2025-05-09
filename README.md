@@ -69,7 +69,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br><br>
+<br>
 
 ---
 
@@ -78,16 +78,16 @@
 
 <a href="https://app.daily.dev/paradox2405"><img src="https://api.daily.dev/devcards/v2/_xjBPLrGp.png?type=wide&r=pft" width="652" alt="Denver Shenal's Dev Card"/></a>
 
-<br><br>
+<br>
 
----<a href="https://app.daily.dev/paradox2405"><img src="https://api.daily.dev/devcards/v2/_xjBPLrGp.png?type=wide&r=pft" width="652" alt="Denver Shenal's Dev Card"/></a>
+---
 
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=Paradox2405&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
-<br><br>
+<br>
 
 ---
 
