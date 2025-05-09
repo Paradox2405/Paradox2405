@@ -37,10 +37,10 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paradox2405&show_icons=true&theme=algolia&hide_title=true&rank_icon=github)](https://github.com/Paradox2405)
 
 <!-- WakaTime Stats -->
-<figure><embed src="https://wakatime.com/share/@Paradox2405/2fc0bcf1-806e-430a-9746-f06a850a0763.svg"></embed></figure>
+[![WakaTime Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paradox2405&layout=compact&theme=algolia&custom_title=Weekly%20Development%20Breakdown&v=2)](https://wakatime.com/@@Paradox2405)
 
 <!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405\&layout=donut&theme=algolia)](https://github.com/Paradox2405/github-readme-stats)
+<img src="https://wakatime.com/share/@Paradox2405/5d7c28d2-e609-46b0-af39-dbad5432a295.png" />
 
 </div>
 
@@ -51,8 +51,15 @@
 [![WakaTime Graph](https://wakatime.com/share/Paradox2405/7f8a1f2d-3f3e-4b5f-9c1d-8e5b3f2a1c1c.svg)](https://wakatime.com/@Paradox2405)
 
 ---
----
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+## 🏆 GitHub Trophies
+<img src="https://github-trophies.vercel.app/?username=Paradox2405&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+---
 
 ## 🔗 **Connect With Me**  
 
