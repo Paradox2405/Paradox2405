@@ -43,14 +43,17 @@
 <img src="https://wakatime.com/share/@Paradox2405/148262af-2ddd-4a12-a82f-d7da41668302.svg" />
 
 </div>
-<br><br><br><br>
+
+<br><br>
+
 ---
 
 ## 🔥 **Weekly Coding Activity**  
+<div align="center">
+<img src="https://wakatime.com/share/@Paradox2405/0e793e14-5f12-445d-b8f4-da034486f2f3.svg" />
+</div>
+<br><br>
 
-<!-- WakaTime Graph - Light Theme -->
-[![WakaTime Graph](https://wakatime.com/share/@Paradox2405/0e793e14-5f12-445d-b8f4-da034486f2f3.svg)](https://wakatime.com/@Paradox2405)
-<br><br><br><br>
 ---
 
 ## ✍️ **Random Dev Quote**
