@@ -57,11 +57,12 @@
 ---
 
 ## ✍️ **Random Dev Quote**
+<br>
 
-<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+
 <br><br><br><br>
+
 ---
 
 ## 🏆 **GitHub Trophies**
@@ -70,6 +71,7 @@
 <img src="https://github-trophies.vercel.app/?username=Paradox2405&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 <br><br><br><br>
+
 ---
 
 ## 🔗 **Connect With Me**  
