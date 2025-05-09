@@ -37,10 +37,10 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paradox2405&show_icons=true&theme=algolia&hide_title=true)](https://github.com/Paradox2405)
 
 <!-- WakaTime Stats -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Paradox2405&layout=compact&theme=algolia&custom_title=All%20Time%20Development%20Breakdown&v=2)](https://wakatime.com/@Paradox2405)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Paradox2405&layout=compact&theme=algolia&custom_title=All%20Time%20Development%20Breakdown)](https://wakatime.com/@Paradox2405)
 
 <!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405\&layout=donut)](https://github.com/Paradox2405/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405\&layout=donut&theme=algolia)](https://github.com/Paradox2405/github-readme-stats)
 
 </div>
 
