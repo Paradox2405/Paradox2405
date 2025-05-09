@@ -42,7 +42,7 @@
   <img src="https://wakatime.com/badge/user/01f1e696-4706-4b0c-9e64-49b9a6227cc7.svg" alt="WakaTime stats" />
 </a>
 
-  <br>
+  <br><br>
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paradox2405&show_icons=true&theme=algolia&hide_title=true&rank_icon=github)](https://github.com/Paradox2405)
 
