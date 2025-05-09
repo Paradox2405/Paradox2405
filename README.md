@@ -37,19 +37,20 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paradox2405&show_icons=true&theme=algolia&hide_title=true&rank_icon=github)](https://github.com/Paradox2405)
 
 <!-- Top Languages Alltime-->
-**Most Used Languages**
 <br><br>
+**Most Used Languages**
+<br>
 <img src="https://wakatime.com/share/@Paradox2405/148262af-2ddd-4a12-a82f-d7da41668302.svg" />
 
 </div>
-
+<br><br><br><br>
 ---
 
 ## 🔥 **Weekly Coding Activity**  
 
 <!-- WakaTime Graph - Light Theme -->
 [![WakaTime Graph](https://wakatime.com/share/@Paradox2405/0e793e14-5f12-445d-b8f4-da034486f2f3.svg)](https://wakatime.com/@Paradox2405)
-
+<br><br><br><br>
 ---
 
 ## ✍️ **Random Dev Quote**
@@ -57,7 +58,7 @@
 <div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
-
+<br><br><br><br>
 ---
 
 ## 🏆 **GitHub Trophies**
@@ -65,7 +66,7 @@
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=Paradox2405&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
-
+<br><br><br><br>
 ---
 
 ## 🔗 **Connect With Me**  
