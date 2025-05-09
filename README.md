@@ -49,6 +49,7 @@
 ---
 
 ## 🔥 **Weekly Coding Activity**  
+<br><br>
 <div align="center">
 <img src="https://wakatime.com/share/@Paradox2405/0e793e14-5f12-445d-b8f4-da034486f2f3.svg" />
 </div>
@@ -61,7 +62,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br><br><br><br>
+<br><br>
 
 ---
 
@@ -70,7 +71,7 @@
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=Paradox2405&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
-<br><br><br><br>
+<br><br>
 
 ---
 
