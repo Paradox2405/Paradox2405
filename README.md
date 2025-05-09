@@ -1,5 +1,12 @@
-# 👨‍💻 Hi, I'm Denver Shenal
+# Hi, I'm Denver Shenal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### **Frontend Engineer | Flutter & React Specialist | UI/UX Enthusiast**  
+
+---
+
+<a href="https://stackoverflow.com/users/13601462/denver-shenal"><img src="https://stackoverflow.com/users/flair/13601462.png?theme=dark" width="208" height="58" alt="profile for Denver Shenal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Denver Shenal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+<a href="https://wakatime.com/@01f1e696-4706-4b0c-9e64-49b9a6227cc7"><img src="https://wakatime.com/badge/user/01f1e696-4706-4b0c-9e64-49b9a6227cc7.svg" alt="Total time coded since Sep 1 2021" /></a>
+[](https://visitor-badge.glitch.me/badge?page_id=Paradox2405.visitor-badge)
 
 ---
 
@@ -65,6 +72,15 @@
 <br><br>
 
 ---
+
+## 📔 **daily.dev Stats**
+<br>
+
+<a href="https://app.daily.dev/paradox2405"><img src="https://api.daily.dev/devcards/v2/_xjBPLrGp.png?type=wide&r=pft" width="652" alt="Denver Shenal's Dev Card"/></a>
+
+<br><br>
+
+---<a href="https://app.daily.dev/paradox2405"><img src="https://api.daily.dev/devcards/v2/_xjBPLrGp.png?type=wide&r=pft" width="652" alt="Denver Shenal's Dev Card"/></a>
 
 ## 🏆 **GitHub Trophies**
 
