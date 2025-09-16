@@ -20,6 +20,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Reactstrap](https://img.shields.io/badge/Reactstrap-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![NEXT.JS](https://img.shields.io/badge/nextdotjs-007FFF?style=for-the-badge&logo=next.js&logoColor=white)
 
 </div>
 
