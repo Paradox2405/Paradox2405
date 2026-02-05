@@ -84,10 +84,11 @@
 </div>
 
 ---
-
+<div align="center">
 <a href="https://stackoverflow.com/users/13601462/denver-shenal">
   <img src="https://stackoverflow.com/users/flair/13601462.png?theme=dark" width="208" height="58" alt="Stack Overflow profile" />
 </a>
+</div>
 
 ---
 
