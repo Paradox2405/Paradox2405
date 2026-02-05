@@ -1,11 +1,7 @@
 # Hi, I'm Denver Shenal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### **Frontend Engineer · Flutter & React Specialist · UI/UX Enthusiast**
 
----
 
-<a href="https://stackoverflow.com/users/13601462/denver-shenal">
-  <img src="https://stackoverflow.com/users/flair/13601462.png?theme=dark" width="208" height="58" alt="Stack Overflow profile" />
-</a>
 
 ---
 
@@ -86,6 +82,12 @@
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Paradox2405&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
+
+---
+
+<a href="https://stackoverflow.com/users/13601462/denver-shenal">
+  <img src="https://stackoverflow.com/users/flair/13601462.png?theme=dark" width="208" height="58" alt="Stack Overflow profile" />
+</a>
 
 ---
 
