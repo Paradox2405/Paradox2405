@@ -31,6 +31,63 @@
 
 ---
 
+## ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://paradox2405.github.io/#project-sunfair"><img src="https://paradox2405.github.io/assets/shots/sunfair.jpg" alt="Sun Fair POS & Inventory" /></a>
+<h3><a href="https://paradox2405.github.io/#project-sunfair">Sun Fair POS & Inventory</a></h3>
+Offline-first point of sale for a Kandy clothing store. Keeps billing when the network drops, then syncs and reconciles.<br/>
+<sub>React · Fastify · PostgreSQL · PWA</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://paradox2405.github.io/#project-carplanet"><img src="https://paradox2405.github.io/assets/shots/carplanet.jpg" alt="CarPlanet" /></a>
+<h3><a href="https://paradox2405.github.io/#project-carplanet">CarPlanet</a></h3>
+Car parts e-commerce for Sri Lanka with vehicle fitment, garages, inspections and a digital car passport.<br/>
+<sub>Next.js 16 · Prisma · Neon · Vercel</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://paradox2405.github.io/#project-delicatebuds"><img src="https://paradox2405.github.io/assets/shots/delicate-buds.jpg" alt="Delicate Buds Tea" /></a>
+<h3><a href="https://paradox2405.github.io/#project-delicatebuds">Delicate Buds Tea</a></h3>
+Online store for handmade Ceylon tea, with prerendered SEO pages and an admin dashboard. <a href="https://delicatebuds.com">Live ↗</a><br/>
+<sub>React · Express · Firebase · Resend</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://paradox2405.github.io/#project-koko"><img src="https://paradox2405.github.io/assets/shots/koko-merchants.jpg" alt="Koko Merchants Directory" /></a>
+<h3><a href="https://paradox2405.github.io/#project-koko">Koko Merchants Directory</a></h3>
+Searchable directory of 5,800+ Sri Lankan shops that accept Koko BNPL. <a href="https://paradox2405.github.io/koko-merchants/">Live ↗</a> · <a href="https://github.com/Paradox2405/koko-merchants">Code</a><br/>
+<sub>JavaScript · Node.js · GitHub Pages</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://paradox2405.github.io/#project-proppel"><img src="https://paradox2405.github.io/assets/shots/proppel.jpg" alt="Proppel" /></a>
+<h3><a href="https://paradox2405.github.io/#project-proppel">Proppel</a></h3>
+Led the Flutter app for an Australian property management platform: rent, expenses, depreciation, documents.<br/>
+<sub>Flutter · BLoC · RxDart · Firebase</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://paradox2405.github.io/#project-tyreshop"><img src="https://paradox2405.github.io/assets/shots/tyre-shop.png" alt="Rathnakumara Tyre Center" /></a>
+<h3><a href="https://paradox2405.github.io/#project-tyreshop">Rathnakumara Tyre Center</a></h3>
+Management system for a tyre shop: inventory, sales, retreading, wages and profit &amp; loss reports.<br/>
+<sub>Next.js · shadcn/ui · Firestore</sub>
+</td>
+</tr>
+</table>
+
+**More:**
+[MEXXAR Recruitment CRM](https://paradox2405.github.io/#project-mexxar-crm) (healthcare staffing CRM used by UK agencies) ·
+[MEXXAR Candidate App V2](https://paradox2405.github.io/#project-mexxar-mobile) (Flutter rebuild I led) ·
+[Red Shutter Camera Store](https://paradox2405.github.io/#project-redshutter) ·
+[BLE Contact Tracing](https://github.com/Paradox2405/Infectious-Disease-Contact-Tracing-Application) (Android, Bluetooth LE)
+
+Plus enterprise platforms built under NDA, including medical device compliance, AI quantity surveying and event management. Details are in my [portfolio](https://paradox2405.github.io/#work).
+
+---
+
 ## 📊 Dev Insights
 
 <div align="center">
