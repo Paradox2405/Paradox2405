@@ -97,7 +97,7 @@ Plus enterprise platforms built under NDA, including medical device compliance, 
 <br>
 
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paradox2405&show_icons=true&theme=algolia&hide_title=true&rank_icon=github)](https://github.com/Paradox2405)
+[![Coding stats](https://paradox2405.github.io/assets/github-card.svg)](https://paradox2405.github.io/#skills)
 
 <br>
 
